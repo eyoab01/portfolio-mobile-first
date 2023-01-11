@@ -33,6 +33,20 @@ GitHub: @eyoab01
 Twitter: @tesfayeteklu10
 LinkedIn: www.linkedin.com/in/tesfaye-teklu-352067105
 
+### License
+This project is MIT licensed.
+
+Feel free to check the issues page.
+
+### Contributing
+Contributions, issues, and feature requests are welcome!
+
 Feel free to check the issues page.
 
 
+### Show your support
+If you like this project you can support me.
+
+### Acknowledgments
+
+I would like to thank my team mates at microverse for their support.
