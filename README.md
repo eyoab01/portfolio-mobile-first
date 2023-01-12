@@ -5,7 +5,6 @@ This page is about my portfolio as a software developer
 HTML and CSS
 
 #### Live Demo
-Add a link to your deployed project.
 
 # https://github.com/eyoab01/portfolio-mobile-first
 
